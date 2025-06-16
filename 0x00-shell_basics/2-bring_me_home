@@ -1,3 +1,2 @@
 #!/bin/bash
 cd ~ || { echo "Failed to change to home directory"; exit 1; }
-pwd
