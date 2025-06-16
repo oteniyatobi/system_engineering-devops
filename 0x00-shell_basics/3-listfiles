@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l
+ls -l `chmod -x 3-listfiles`
